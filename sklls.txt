@@ -1,0 +1,5 @@
+Base theory - SDLC, STLC
+Sniffing - Charles, Fiddler
+Linux - terminal
+SQL Basics - Create, Delete, Drop,Insert Into, Select
+Stress Testing - Jmeter
