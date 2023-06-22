@@ -1,0 +1,4 @@
+Name - 	Savchenko Dmitry Yurievich
+Age - 	36
+Pets - 	null
+Future desired salary - 500
